@@ -1,6 +1,6 @@
 Site Information
 
- - Personal website for testing of static website development
+ - Personal website for testing of static website deployment
  - Uses GibHub Pages to host the website
  - GitHub Pages is a service offered by GitHub. Specifically, GitHub Pages are public webpages that are hosted and published through GitHub.
  - Linked to my local git repository "_projects\personal-website-2"
