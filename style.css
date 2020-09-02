@@ -51,7 +51,7 @@ body {
   }
   
   .start-row {
-    margin: auto;
+    margin: 50px auto;
     width: 120px;
     height: 43px;
     font-family: ‘Work Sans’;
@@ -62,4 +62,13 @@ body {
     color: #010165;
     margin-bottom: 21px;
     cursor: pointer;
+  }
+
+  .nav-links {
+    color: white;
+  }
+
+  .nav-list {
+    display: inline-block;
+    padding: 20px;
   }
